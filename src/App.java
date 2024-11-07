@@ -4,5 +4,6 @@ public class App {
         System.out.print("Puto");
         int a = 1;
         System.out.println(a);
+        System.out.println("Hola Arritxu");
     }
 }
